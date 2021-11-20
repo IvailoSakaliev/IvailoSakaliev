@@ -8,13 +8,13 @@ Hello, my name is Ivaylo Sakaliev, I work as a team leader and I am a full stack
 * <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML 5
 * <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3
 * <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> Sass
-* <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />JavaScript
-* <img alt="PHP" width="26px" src="https://i.dlpng.com/static/png/6622045_preview.png" />PHP
-* <img alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />TypeScript
-* <img alt="JSON" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoU78Hj6DPZq_rVh1dyNTc4Lwt_Z05Vr-SRA&usqp=CAU" />JSON
-* <img alt="Bootstrap" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" />Bootstrap
-* <img alt="JAVA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />JAVA
-* <img alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" />Android
+* <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
+* <img alt="PHP" width="26px" src="https://i.dlpng.com/static/png/6622045_preview.png" /> PHP
+* <img alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" /> TypeScript
+* <img alt="JSON" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoU78Hj6DPZq_rVh1dyNTc4Lwt_Z05Vr-SRA&usqp=CAU" /> JSON
+* <img alt="Bootstrap" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" /> Bootstrap
+* <img alt="JAVA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" /> JAVA
+* <img alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" /> Android
 
 ### Front-end Framework
 * <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React
