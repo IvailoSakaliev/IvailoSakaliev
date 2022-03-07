@@ -1,5 +1,5 @@
 # Ivailo Sakaliev
-Hello, my name is Ivaylo Sakaliev, I work as a team leader and I am a full stack developer at Social Cloud LLS. I like to develop my knowledge and skills in various new technologies and approaches and to strengthen my knowledge and skills more and more.
+Hello, my name is Ivaylo Sakaliev, I work as a team leader and I am a full stack developer at Social Cloud LLC. I like to develop my knowledge and skills in various new technologies and approaches and to strengthen my knowledge and skills more and more.
 
 ## My knowledge and skills
 
